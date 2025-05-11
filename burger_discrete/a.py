@@ -1,1 +1,2 @@
-smnbckjh
+def chutiya:
+  pass
